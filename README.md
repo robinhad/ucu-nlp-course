@@ -29,3 +29,10 @@ Practice 4:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice-04_Sequence_Labelling.ipynb)
 - NER - 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice-04_NER.ipynb)
+
+
+Practice 9: 
+- Pytorch Lightning - 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_09_Pytorch_Lightning.ipynb)
+- Setfit - 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_09_Setfit.ipynb)

@@ -41,3 +41,7 @@ Practice 9:
 
 Practice 10: PEFT Fine-tuning - 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_10_PEFT_finetuning.ipynb)
+
+
+Practice 11: PEFT Part 2 - 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_11_PEFT_Part_2.ipynb)

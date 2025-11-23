@@ -1,4 +1,4 @@
-# 💬 Natural Language Processing Course @ Ukrainian Catholic University
+# 💬 Natural Language Processing Course @ Ukrainian Catholic University (Fall 2025)
 
 ## 📖 Course Description
 

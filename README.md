@@ -1,5 +1,9 @@
 # 💬 Natural Language Processing Course @ Ukrainian Catholic University (Fall 2025)
 
+> A society grows great when old people plant trees in which shades they shall never sit in.  
+> *Found on Internet*
+
+
 ## 📖 Course Description
 
 This is a bachelor-level course in Natural Language Processing (NLP) offered at Ukrainian Catholic University. The course provides a comprehensive introduction to the fundamental concepts, techniques, and applications of NLP, covering both classical and modern approaches to language processing.
@@ -18,17 +22,36 @@ Students will learn to:
 
 | Session | Topic | Type | Lecturer | Materials | Video Recording 🇺🇦 |
 |---------|-------|------|----------|-----------|-----------------|
-| 1 | Introduction to NLP tasks and use cases | Lecture | Victoria Makovska | [Lecture 1 PDF](<Lectures/Lecture 01 Introduction to NLP tasks and use cases.pdf>) | |
-| 2 | Classical NLP | Lecture | Yurii Paniv | TODO: to upload | |
-| 1 | Classical NLP pipeline | Practice | Yurii Paniv | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_01_Classical_NLP.ipynb) | |
-| - | Text Classification - Sentiment Analysis | Assignment | - | [Assignment 1](https://github.com/robinhad/ucu-nlp-course/tree/main/Assignments/Task%201%20-%20Text%20Classification) | |
-| 3 | Neural Machine Translation | Practice | - | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_03_Neural_Machine_translation.ipynb) | |
-| 4 | Sequence Labelling | Practice | - | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice-04_Sequence_Labelling.ipynb) | |
-| 4 | Named Entity Recognition (NER) | Practice | - | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice-04_NER.ipynb) | |
-| 9 | PyTorch Lightning | Practice | - | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_09_Pytorch_Lightning.ipynb) | |
-| 9 | SetFit | Practice | - | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_09_Setfit.ipynb) | |
-| 10 | PEFT Fine-tuning | Practice | - | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_10_PEFT_finetuning.ipynb) | |
-| 11 | PEFT Part 2 | Practice | - | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_11_PEFT_Part_2.ipynb) | |
+| 1 | Introduction to the course. NLP tasks and use cases | Lecture | Viktoriia Makovska | [Lecture 1 PDF](<Lectures/Lecture 01 Introduction to NLP tasks and use cases.pdf>) | |
+| 2 | Classical NLP. | Lecture | Yurii Paniv | [Lecture 2 PDF](<Lectures/Lecture 02 Classical NLP.pdf>) | |
+| 1 | Classical NLP | Practice | Yurii Paniv | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_01_Classical_NLP.ipynb) | |
+| 3 | Transition to Modern Machine Learning | Lecture | Maksym Shamrai | [Lecture 3 PDF](<Lectures/Lecture 03 Transition to Modern Machine Learning.pdf>) | |
+| 2 | PyTorch Basics, Classification Task | Practice | Maksym Shamrai | | |
+| 4 | Transformer Anatomy. | Lecture | Yurii Laba | [Lecture 4 PDF](<Lectures/Lecture 04 Transformer Anatomy.pdf>) | |
+| 3 | PyTorch, RNN. | Practice | Maksym Shamrai | | |
+| 5 | Applied NLP Tasks (Part 1) | Lecture | Viktoriia Makovska | [Lecture 5 PDF](<Lectures/Lecture 05 Applied NLP tasks (Part 1).pdf>) | |
+| 4 | Neural Machine Translation (Seq2Seq) | Practice | Yurii Paniv | | |
+| 6 | Applied NLP Tasks (Part 2) | Lecture | Yurii Paniv | [Lecture 6 PDF](<Lectures/Lecture 06 Applied NLP tasks (Part 2).pdf>) | |
+| 5 | Sequence Labelling | Practice | Yurii Paniv | | |
+| 7 | Evaluation in NLP | Lecture | Yurii Laba | [Lecture 7 PDF](<Lectures/Lecture 07 Foundations of Evaluation in NLP.pdf>) | |
+| 6 | Data Annotation for NLP tasks | Practice | Dmytro Chaplynskyi | | |
+| 8 | Data Processing & Mining | Lecture | Dmytro Chaplynskyi | [Lecture 8 PDF](<Lectures/Lecture 08 Data Processing & Mining, UCU.pptx.pdf>) | |
+| 7 | Data Processing & Mining | Practice | Dmytro Chaplynskyi | | |
+| 9 | Large Language Models (LLMs) | Lecture | Yurii Paniv | [Lecture 9 PDF](<Lectures/Lecture 09 Large Language Models.pptx.pdf>) | |
+| 8 | Tokenizers | Practice | Maksym Shamrai | | |
+| 9 | Fine-tuning Sentence Transformers. Pytorch Lightning | Practice | Yurii Paniv | | |
+| 10 | Parameter-efficient fine-tuning LLMs | Practice | Yurii Paniv | | |
+| - | Semester project status update | Presentation | Viktoriia Makovska + Yurii Paniv | | |
+| 10 | Prompt Engineering. | Lecture | Viktoriia Makovska | [Lecture 10 PDF](<Lectures/Lecture 10 Prompt Engineering.pdf>) | |
+| 11 | LoRA in depth | Practice | Yurii Paniv | | |
+| 11 | Information Retrieval | Lecture | Dmytro Chaplynskyi | [Lecture 11 PDF](<Lectures/Lecture 11 Information Retrieval.pdf>) | |
+| 12 | Retrieval-Augmented Generation (RAG) | Practice | Viktoriia Makovska | | |
+| 12 | MultiModal Models | Lecture | Yurii Laba | *Opens on 28.11* | |
+| 13 | Multimodal Retrieval with CLIP | Practice | Yurii Laba | *Opens on 01.12* | |
+| 13 | Deployment. Performance. Quantization | Lecture | Maksym Shamrai | *Opens on 05.12* | |
+| 14 | Safety, Alignment, Ethics | Lecture | Viktoriia Makovska | *Opens on 08.12* | |
+| - | Semester project presentation | Presentation | Yurii Paniv + Viktoriia Makovska + Yurii Laba + Maksym Shamrai | *Opens on 12.12* | |
+
 
 
 ## 🧑‍🏫 People

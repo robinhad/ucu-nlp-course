@@ -33,8 +33,8 @@ Students will learn to:
 
 ## 🧑‍🏫 People
 
-- Yurii Paniv
-- Victoria Makovska
-- Dmytro Chaplynskyi
+- [Yurii Paniv](https://www.linkedin.com/in/yurii-paniv-aa969b151/)
+- [Victoria Makovska](https://www.linkedin.com/in/victoriadiachenko/)
+- [Dmytro Chaplynskyi](https://www.linkedin.com/in/dmytro-chaplynskyi-76078424/)
 - Maksym Shamrai
-- Yurii Laba
+- [Yurii Laba](https://www.linkedin.com/in/yura-laba/)

@@ -50,7 +50,7 @@ Students will learn to:
 | 13 | Multimodal Retrieval with CLIP | Practice | Yurii Laba | *Opens on 01.12* | |
 | 13 | Deployment. Performance. Quantization | Lecture | Maksym Shamrai | *Opens on 05.12* | |
 | 14 | Safety, Alignment, Ethics | Lecture | Viktoriia Makovska | *Opens on 08.12* | |
-| - | Semester project presentation | Presentation | Yurii Paniv + Viktoriia Makovska + Yurii Laba + Maksym Shamrai | *Opens on 12.12* | |
+| - | Semester project presentation | Presentation | Yurii Paniv + Viktoriia Makovska + Yurii Laba + Maksym Shamrai | | |
 
 
 

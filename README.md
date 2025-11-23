@@ -32,14 +32,14 @@ Students will learn to:
 | 5 | Applied NLP Tasks (Part 1) | Lecture | Viktoriia Makovska | [Lecture 5 PDF](<Lectures/Lecture 05 Applied NLP tasks (Part 1).pdf>) | |
 | 4 | Neural Machine Translation (Seq2Seq) | Practice | Yurii Paniv | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_04_Neural_Machine_translation.ipynb) | |
 | 6 | Applied NLP Tasks (Part 2) | Lecture | Yurii Paniv | [Lecture 6 PDF](<Lectures/Lecture 06 Applied NLP tasks (Part 2).pdf>) | |
-| 5 | Sequence Labelling | Practice | Yurii Paniv | [![NER - Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_05_NER.ipynb) [![Sequence Labelling - Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_05_Sequence_Labelling.ipynb) | |
+| 5 | Sequence Labelling | Practice | Yurii Paniv | NER [![NER - Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_05_NER.ipynb) Sequence Labelling [![Sequence Labelling - Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_05_Sequence_Labelling.ipynb) | |
 | 7 | Evaluation in NLP | Lecture | Yurii Laba | [Lecture 7 PDF](<Lectures/Lecture 07 Foundations of Evaluation in NLP.pdf>) | |
 | 6 | Data Annotation for NLP tasks | Practice | Dmytro Chaplynskyi | [Practice 6 PDF](<Practices/Practice_06_Data_Annotation.pdf>)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_06_Data_Annotation.ipynb)  *More materials in video* | |
 | 8 | Data Processing & Mining | Lecture | Dmytro Chaplynskyi | [Lecture 7_1 PDF](<Lectures/Lecture 07_1 Missing Gaps.pptx.pdf>) [Lecture 8 PDF](<Lectures/Lecture 08 Data Processing & Mining, UCU.pptx.pdf>) | |
 | 7 | Data Processing & Mining | Practice | Dmytro Chaplynskyi | *Materials in video* | |
 | 9 | Large Language Models (LLMs) | Lecture | Yurii Paniv | [Lecture 9 PDF](<Lectures/Lecture 09 Large Language Models.pptx.pdf>) | |
 | 8 | Tokenizers | Practice | Maksym Shamrai | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_08_Tokenizers.ipynb) | |
-| 9 | Fine-tuning Sentence Transformers. Pytorch Lightning and SetFit | Practice | Yurii Paniv | [![PyTorch Lightning](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_09_Pytorch_Lightning.ipynb) [![SetFit](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_09_Setfit.ipynb) | |
+| 9 | Fine-tuning Sentence Transformers. Pytorch Lightning and SetFit | Practice | Yurii Paniv | PyTorch Lightning [![PyTorch Lightning](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_09_Pytorch_Lightning.ipynb) SetFit [![SetFit](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_09_Setfit.ipynb) | |
 | 10 | Parameter-efficient fine-tuning LLMs | Practice | Yurii Paniv | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_10_PEFT_finetuning.ipynb) | |
 | - | Semester project status update | Presentation | Viktoriia Makovska + Yurii Paniv |  | |
 | 10 | Prompt Engineering. | Lecture | Viktoriia Makovska | [Lecture 10 PDF](<Lectures/Lecture 10 Prompt Engineering.pdf>) | |
@@ -53,8 +53,14 @@ Students will learn to:
 | - | Semester project presentation | Presentation | Yurii Paniv + Viktoriia Makovska + Yurii Laba + Maksym Shamrai | | |
 
 
+## 📣 Feedback
+
+Looking forward for your feedback! Please open an issue here what we need to improve.
+
 
 ## 🧑‍🏫 People
+
+Kudos to the team:
 
 - [Yurii Paniv](https://www.linkedin.com/in/yurii-paniv-aa969b151/)
 - [Victoria Makovska](https://www.linkedin.com/in/victoriadiachenko/)

@@ -36,5 +36,5 @@ Students will learn to:
 - [Yurii Paniv](https://www.linkedin.com/in/yurii-paniv-aa969b151/)
 - [Victoria Makovska](https://www.linkedin.com/in/victoriadiachenko/)
 - [Dmytro Chaplynskyi](https://www.linkedin.com/in/dmytro-chaplynskyi-76078424/)
-- Maksym Shamrai
+- [Maksym Shamrai](https://www.linkedin.com/in/maksymshamrai/)
 - [Yurii Laba](https://www.linkedin.com/in/yura-laba/)

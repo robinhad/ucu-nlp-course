@@ -18,7 +18,7 @@ Students will learn to:
 
 | Session | Topic | Type | Lecturer | Materials | Video Recording 🇺🇦 |
 |---------|-------|------|----------|-----------|-----------------|
-| 1 | Introduction to NLP tasks and use cases | Lecture | Victoria Makovska | [Lecture 1 PDF](<Lectures/Lecture 1 Introduction to NLP tasks and use cases.pdf>) | |
+| 1 | Introduction to NLP tasks and use cases | Lecture | Victoria Makovska | [Lecture 1 PDF](<Lectures/Lecture 01 Introduction to NLP tasks and use cases.pdf>) | |
 | 2 | Classical NLP | Lecture | Yurii Paniv | TODO: to upload | |
 | 1 | Classical NLP pipeline | Practice | Yurii Paniv | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_01_Classical_NLP.ipynb) | |
 | - | Text Classification - Sentiment Analysis | Assignment | - | [Assignment 1](https://github.com/robinhad/ucu-nlp-course/tree/main/Assignments/Task%201%20-%20Text%20Classification) | |

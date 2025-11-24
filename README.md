@@ -76,7 +76,7 @@ Kudos to the team:
 
 ## 📜 Want to learn more?
 
-Clasic NLP course by Jurafsky and Martin:
+Classic NLP course by Jurafsky and Martin:
 https://web.stanford.edu/~jurafsky/slp3/
 
 https://naviglinlp.blogspot.com/p/natural-language-processing-basic.html

@@ -72,3 +72,13 @@ Kudos to the team:
 - [Dmytro Chaplynskyi](https://www.linkedin.com/in/dmytro-chaplynskyi-76078424/)
 - [Maksym Shamrai](https://www.linkedin.com/in/maksymshamrai/)
 - [Yurii Laba](https://www.linkedin.com/in/yura-laba/)
+
+
+## 📜 Want to learn more?
+
+Clasic NLP course by Jurafsky and Martin:
+https://web.stanford.edu/~jurafsky/slp3/
+
+https://naviglinlp.blogspot.com/p/natural-language-processing-basic.html
+
+https://web.stanford.edu/class/cs224n/

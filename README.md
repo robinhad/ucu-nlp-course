@@ -1,5 +1,7 @@
 # 💬 Natural Language Processing Course @ Ukrainian Catholic University (Fall 2025)
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLF5C4LaYzP2LCKeTTgXJgFoXaDDn2COEp)
+
 > A society grows great when old people plant trees in which shades they shall never sit in.  
 > *Found on Internet*
 
@@ -18,7 +20,10 @@ Students will learn to:
 - Understand how to create and evaluate NLP models and pipelinesusing popular libraries
 
 
+
 ## ⌛ Course Timeline
+
+YouTube playlist: [https://www.youtube.com/playlist?list=PLF5C4LaYzP2LCKeTTgXJgFoXaDDn2COEp](https://www.youtube.com/playlist?list=PLF5C4LaYzP2LCKeTTgXJgFoXaDDn2COEp)
 
 | Session | Topic | Type | Lecturer | Materials | Video Recording 🇺🇦 |
 |---------|-------|------|----------|-----------|-----------------|

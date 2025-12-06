@@ -27,7 +27,7 @@ YouTube playlist: [https://www.youtube.com/playlist?list=PLF5C4LaYzP2LCKeTTgXJgF
 
 | Session | Topic | Type | Lecturer | Materials | Video Recording 🇺🇦 |
 |---------|-------|------|----------|-----------|-----------------|
-| 1 | Introduction to the course. NLP tasks and use cases | Lecture | Viktoriia Makovska | [Lecture 1 PDF](<Lectures/Lecture 01 Introduction to NLP tasks and use cases.pdf>) | Recording not available |
+| 1 | Introduction to the course. NLP tasks and use cases | Lecture | Viktoriia Makovska | [Lecture 1 PDF](<Lectures/Lecture 01 Introduction to NLP tasks and use cases.pdf>) | Not available :( |
 | 2 | Classical NLP. | Lecture | Yurii Paniv | [Lecture 2 PDF](<Lectures/Lecture 02 Classical NLP.pdf>) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PCI9nNi3I_A&list=PLF5C4LaYzP2LCKeTTgXJgFoXaDDn2COEp&index=1&pp=gAQBiAQB) |
 | 1 | Classical NLP | Practice | Yurii Paniv | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_01_Classical_NLP.ipynb) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=KYK4VaEOs9U&list=PLF5C4LaYzP2LCKeTTgXJgFoXaDDn2COEp&index=2&pp=gAQBiAQB) |
 | 3 | Transition to Modern Machine Learning | Lecture | Maksym Shamrai | [Lecture 3 PDF](<Lectures/Lecture 03 Transition to Modern Machine Learning.pdf>) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=hg_nElDBmA8&list=PLF5C4LaYzP2LCKeTTgXJgFoXaDDn2COEp&index=3&pp=gAQBiAQB0gcJCRUKAYcqIYzv) |
@@ -51,7 +51,7 @@ YouTube playlist: [https://www.youtube.com/playlist?list=PLF5C4LaYzP2LCKeTTgXJgF
 | 11 | LoRA in depth | Practice | Yurii Paniv | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_11_PEFT_Part_2.ipynb) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rNvaJ6j0nXw&list=PLF5C4LaYzP2LCKeTTgXJgFoXaDDn2COEp&index=20&pp=gAQBiAQB) |
 | 11 | Information Retrieval | Lecture | Dmytro Chaplynskyi | [Lecture 11 PDF](<Lectures/Lecture 11 Information Retrieval.pdf>) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=JebblAXPv2U&list=PLF5C4LaYzP2LCKeTTgXJgFoXaDDn2COEp&index=21&pp=gAQBiAQB) |
 | 12 | Retrieval-Augmented Generation (RAG) | Practice | Viktoriia Makovska | *Opens on 24.11* | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=edGY2_DHafw&list=PLF5C4LaYzP2LCKeTTgXJgFoXaDDn2COEp&index=22&pp=gAQBiAQB) |
-| 12 | MultiModal Models | Lecture | Yurii Laba | *Opens on 28.11* | |
+| 12 | MultiModal Models | Lecture | Yurii Laba | [Lecture 12 PDF](<Lectures/Lecture 12 Multimodal NLP.pdf>) | |
 | 13 | Multimodal Retrieval with CLIP | Practice | Yurii Laba | *Opens on 01.12* | |
 | 13 | Deployment. Performance. Quantization | Lecture | Maksym Shamrai | *Opens on 05.12* | |
 | 14 | Safety, Alignment, Ethics | Lecture | Viktoriia Makovska | *Opens on 08.12* | |
